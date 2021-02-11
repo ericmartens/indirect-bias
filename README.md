@@ -7,3 +7,4 @@ Instructions and links for provisioning the necessary services are included in t
 * **hiring_preprod.ipynb** for simulating a pre-production candidate model
 * **auto_debias_preprod.ipynb** for using direct bias detection and showing off the capabilities of the automated debiasing endpoint
 * **indirect_debias.ipynb** for demonstrating how indirect bias detection and automated debiasing can be combined
+* **indirect_bias_auto_debias_cp4d** for demonstrating the combination of indirect bias and automated debias running on IBM Cloud Pak for Data
